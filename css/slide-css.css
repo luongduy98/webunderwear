@@ -276,7 +276,7 @@ body {
   z-index: 20;
 }
 .con__nav {
-  position: fixed;
+  position: absolute;
   bottom: 3%;
   left: 50%;
   -webkit-transform: translateX(-50%);
