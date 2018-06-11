@@ -1,11 +1,42 @@
+/* #region temp*/
+#content {
+    margin-top: 100px;
+}
+/* #endregion */
+
 /* #region global*/
 ul{
     list-style-type: none;
 }
+
 /* #endregion */
 /* #region nav*/
+.logo_menu a{
+    font-size: 23pt !important;
+}
+.nav_bar{
+    position: absolute;
+    left:0;
+    right:0;
+    margin-left:auto;
+    margin-right:auto;
+}
 .menu_item{
-    display: table-cell;
+    display: -webkit-inline-flex;
+    margin-right: 40px; 
+}
+.menu_item a{
+    text-transform: uppercase;
+    font-size: 1.2rem;
+    font-weight: bold;
+    display: block;
+
 }
 
+/* #endregion */
+
+/* #region slide*/
+.slide{
+    position: relative;
+}
 /* #endregion */
