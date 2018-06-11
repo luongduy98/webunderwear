@@ -1,0 +1,10 @@
+/* #region global*/
+ul{
+    list-style-type: none;
+}
+/* #endregion */
+/* #region nav*/
+.main_menu ul li{
+    display: table-cell;
+}
+/* #endregion */
