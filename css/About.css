@@ -1,0 +1,58 @@
+.intro-company{
+}
+#content{
+    
+}
+h4{
+    color: #ff6699;
+}
+#content .intro-company h4{
+
+    text-align: center;
+    margin-top: 50px;
+}
+.intro-company p{
+    max-width: 70%;
+    margin: auto;
+    font-size: 9pt;
+}
+.Highlights{
+    margin: 30px 0 0 0;
+}
+#content .Highlights h4{
+
+    text-align: center;
+    margin-top: 50px;
+}
+#content .Highlights .container{
+    text-align: center;
+    max-width: 70%;
+
+}
+
+.address{
+    margin: 100px 0 -100px 0;
+    max-width: 100%;
+    height: 342px;
+    background-color: #ff6699;
+}
+.address-contact{
+    color: #fff;
+    width: 63%;
+    text-align: center;
+    float: left;
+    margin: 30px auto auto auto;
+}
+.address-contact h4{
+    color: #fff;
+}
+.address-contact input{
+    color: #fff;
+    border: 2px solid #fff;
+    background: #ff6699;
+} 
+.address .img{
+    max-width: 37%;
+    height: 342px;
+    float: left;
+}
