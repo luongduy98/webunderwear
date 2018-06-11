@@ -12,7 +12,7 @@ ul{
 /* #endregion */
 /* #region nav*/
 .logo_menu a{
-    font-size: 23pt !important;
+    font-size: 20pt !important;
 }
 .nav_bar{
     position: absolute;
@@ -20,17 +20,21 @@ ul{
     right:0;
     margin-left:auto;
     margin-right:auto;
+    width: 100%;
+}
+.nav_bar ul{
+    text-align: center;
+
 }
 .menu_item{
     display: -webkit-inline-flex;
-    margin-right: 40px; 
+    margin-right: 20px;
 }
 .menu_item a{
     text-transform: uppercase;
     font-size: 1.2rem;
-    font-weight: bold;
     display: block;
-
+    font-weight: 600;
 }
 
 /* #endregion */
